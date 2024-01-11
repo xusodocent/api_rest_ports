@@ -23,6 +23,12 @@
       També tens disponible la documentació de VUE:
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>
     </p>
+    <p>
+      Per a posar en marxa la part del back-end tenin un directori dintre d'aquest projecte que es diu 
+      model_backend. Dintre teniu un arxiu ports.json que és el que heu de llençar amb el json-server. 
+      Com que el json-server és limitat, en l'exemple teniu una funció que genera ids per als elements 
+      nous, que en un back-end més funcional no haurieu d'incloure.
+    </p>
     
   </div>
 </template>
